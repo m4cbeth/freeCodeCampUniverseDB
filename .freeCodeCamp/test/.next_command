@@ -1,2 +1,3 @@
 psql --username=freecodecamp --dbname=postgres
 pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+psql --username=freecodecamp --dbname=postgres
